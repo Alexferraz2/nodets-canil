@@ -60,3 +60,4 @@ export const fishes = (req: Request, res: Response) => {
         }
     )
 }
+
